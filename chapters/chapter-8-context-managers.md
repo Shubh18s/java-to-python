@@ -353,4 +353,4 @@ Python's context manager protocol is more flexible than Java's `AutoCloseable` �
 
 ---
 
-*Next: Chapter 9 — Generators and Iterators: Laziness as a Superpower*
+*Next: [Chapter 9 — Generators and Iterators: Laziness as a Superpower](chapter-9-generators-iterators.md)*

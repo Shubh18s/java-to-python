@@ -397,4 +397,4 @@ Python decorators do in 10 lines what Java AOP does with a framework, XML config
 
 ---
 
-*Next: Chapter 8 — Context Managers: Guaranteed Cleanup*
+*Next: [Chapter 8 — Context Managers: Guaranteed Cleanup](chapter-8-context-managers.md)*

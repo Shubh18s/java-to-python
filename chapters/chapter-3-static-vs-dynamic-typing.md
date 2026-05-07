@@ -247,4 +247,4 @@ Your Java background gives you an advantage here: you already understand what ty
 
 ---
 
-*Next: Chapter 4 — OOP Reimagined: From Constructor Overloading to @classmethod*
+*Next: [Chapter 4 — OOP Reimagined: From Constructor Overloading to @classmethod](chapter-4-classmethod-staticmethod.md)*

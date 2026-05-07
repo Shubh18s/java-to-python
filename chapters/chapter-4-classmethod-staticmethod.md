@@ -328,4 +328,4 @@ The Python way is actually more readable. `Dog.from_string("Rex,3")` tells you m
 
 ---
 
-*Next: Chapter 5 — The Bouncer: @property and Controlled Attribute Access*
+*Next: [Chapter 5 — The Bouncer: @property and Controlled Attribute Access](chapter-5-property.md)*

@@ -403,4 +403,4 @@ The GIL is Python's biggest surprise for Java developers. Once you understand it
 
 ---
 
-*Next: Chapter 12 — Descriptors: The Engine Behind @property*
+*Next: [Chapter 12 — Descriptors: The Engine Behind @property](chapter-12-descriptors.md)*

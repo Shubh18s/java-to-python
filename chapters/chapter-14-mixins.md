@@ -347,4 +347,4 @@ Java 8's `default` interface methods are the closest Java equivalent to mixins �
 
 ---
 
-*Next: Chapter 15 — Putting It Together: Building an AI Application*
+*Next: [Chapter 15 — Putting It Together: Building an AI Application](chapter-15-putting-it-together.md)*

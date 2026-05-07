@@ -312,4 +312,4 @@ Your Java background makes you the ideal judge of when to reach for `ABC`. You'v
 
 ---
 
-*Next: Chapter 7 — Decorators: Python's Answer to AOP*
+*Next: [Chapter 7 — Decorators: Python's Answer to AOP](chapter-7-decorators.md)*

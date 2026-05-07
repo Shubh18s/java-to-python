@@ -141,4 +141,4 @@ Let's use it.
 
 ---
 
-*Next: Chapter 2 — Everything Is an Object (Including Classes)*
+*Next: [Chapter 2 — Everything Is an Object (Including Classes)](chapter-2-everything-is-an-object.md)*

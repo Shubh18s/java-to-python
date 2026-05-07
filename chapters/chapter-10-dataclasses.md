@@ -388,4 +388,4 @@ Java's Lombok does the same at compile time with annotation processing. Python d
 
 ---
 
-*Next: Chapter 11 — Concurrency: The GIL, Threading, and asyncio*
+*Next: [Chapter 11 — Concurrency: The GIL, Threading, and asyncio](chapter-11-concurrency.md)*

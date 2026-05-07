@@ -298,4 +298,4 @@ The full descriptor protocol is covered in Chapter 8. For now, understand that `
 
 ---
 
-*Next: Chapter 6 — Interfaces as Patchwork: Abstract Base Classes*
+*Next: [Chapter 6 — Interfaces as Patchwork: Abstract Base Classes](chapter-6-abstract-base-classes.md)*

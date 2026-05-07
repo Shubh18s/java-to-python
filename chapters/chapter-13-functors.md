@@ -354,4 +354,4 @@ Each template is callable like a function — but carries its own template strin
 
 ---
 
-*Next: Chapter 14 — Mixins: Multiple Inheritance Done Right*
+*Next: [Chapter 14 — Mixins: Multiple Inheritance Done Right](chapter-14-mixins.md)*

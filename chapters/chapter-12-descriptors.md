@@ -392,4 +392,4 @@ Java's approach is external — annotations processed by frameworks, reflection 
 
 ---
 
-*Next: Chapter 13 — Functors and Callable Objects*
+*Next: [Chapter 13 — Functors and Callable Objects](chapter-13-functors.md)*

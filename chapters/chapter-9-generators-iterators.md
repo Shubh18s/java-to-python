@@ -358,4 +358,4 @@ These compose with any iterable — lists, generators, files, API responses. The
 
 ---
 
-*Next: Chapter 10 — Dataclasses: Goodbye Boilerplate*
+*Next: [Chapter 10 — Dataclasses: Goodbye Boilerplate](chapter-10-dataclasses.md)*

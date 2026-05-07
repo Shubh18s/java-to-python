@@ -361,4 +361,4 @@ All of it is just objects, all the way down.
 
 ---
 
-*Next: Chapter 3 — Static vs Dynamic Typing: What Python Is Trading and Why*
+*Next: [Chapter 3 — Static vs Dynamic Typing: What Python Is Trading and Why](chapter-3-static-vs-dynamic-typing.md)*
