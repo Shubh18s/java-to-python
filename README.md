@@ -1,6 +1,6 @@
-# Making Friends with Python <i>Complete: 15 chapters, ~28,000 words</i>
+# Making Friends with Python 
 ### A Developer's Guide to Moving from Java to Python 
-
+<i>Complete: 15 chapters, ~28,000 words</i>
 > *"Python's simplicity isn't for beginners. It's for developers who already understand what's being simplified."*
 
 ---
